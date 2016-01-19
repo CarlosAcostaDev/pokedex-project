@@ -1,0 +1,6 @@
+framework module Pods_poxedex_project {
+  umbrella header "Pods-poxedex-project-umbrella.h"
+
+  export *
+  module * { export * }
+}
